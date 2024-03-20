@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcode For Elementor Templates\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-25 08:24+0000\n"
+"PO-Revision-Date: 2023-04-25 08:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: shortcode-support-for-elementor-templates"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://sysbasics.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Include any elementor template using shortcode. It will add shortcode column "
+"to existing elementor template admin columns."
+msgstr ""
+
+#: shortcode-support-for-elementor-templates.php:24
+msgid "Shortcode"
+msgstr ""
+
+#. Name of the plugin
+msgid "Shortcode For Elementor Templates"
+msgstr ""
+
+#. Author of the plugin
+msgid "SysBasics"
+msgstr ""

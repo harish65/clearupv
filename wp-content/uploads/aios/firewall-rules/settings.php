@@ -1,0 +1,6 @@
+<?php __halt_compiler();
+/**
+ * This file was created by All In One Security (AIOS) plugin.
+ * The file is required for storing and retrieving your firewall's settings.
+ */
+{"aios_ip_retrieve_method":"","aiowps_enable_pingback_firewall":false,"aiowps_forbid_proxy_comments":false,"aiowps_deny_bad_query_strings":false,"aiowps_advanced_char_string_filter":false,"aiowps_6g_block_request_methods":[],"aiowps_6g_block_query":false,"aiowps_6g_block_request":false,"aiowps_6g_block_referrers":false,"aiowps_6g_block_agents":false,"aiowps_blacklist_user_agents":[],"aiowps_ip_retrieve_method":"","aiowps_blacklist_ips":[],"aios_enable_brute_force_attack_prevention":"","aios_enable_rename_login_page":"","aios_login_page_slug":"","aios_brute_force_secret_word":"","aios_cookie_based_brute_force_redirect_url":"http:\/\/127.0.0.1","aios_brute_force_attack_prevention_pw_protected_exception":"","aios_brute_force_attack_prevention_ajax_exception":"","aios_brute_force_secret_cookie_name":"aios_brute_force_secret_8ff30be3cb125df702b4b980946389ed","aios_brute_force_cookie_salt":"hj=f&Yy*UwD K*L#ukE~AaJKZ;76@%4*@0+Eo@\/pkqD@5R\/sMn)WS_EzzBul{sj0;dW#-1M^80B=LW*w8s-J&saoK1!`\/Y`u>n:senUGnxbkybRmf]]mX`%&WI4,c;#Q@}"}

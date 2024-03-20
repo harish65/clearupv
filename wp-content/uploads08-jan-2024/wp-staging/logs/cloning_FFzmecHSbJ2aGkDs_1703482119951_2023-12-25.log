@@ -1,0 +1,958 @@
+[INFO]-[2023/12/25 05:28:42] #################### Start Cloning Job ####################
+[info]-[2023/12/25 05:28:42] WP Staging Version: 3.2.0
+[info]-[2023/12/25 05:28:42] PHP Version: 7.4.33
+[info]-[2023/12/25 05:28:42] Server: Apache
+[info]-[2023/12/25 05:28:42] MySQL: 5.7.32
+[info]-[2023/12/25 05:28:42] WP Version: 6.4.2
+[info]-[2023/12/25 05:28:42] PHP Memory Limit: 536870912
+[info]-[2023/12/25 05:28:42] WP Memory Limit: 536870912
+[info]-[2023/12/25 05:28:42] PHP Max Execution Time: 30
+[INFO]-[2023/12/25 05:28:43] DB Copy: Creating table wpstg0_ce4wp_contacts
+[INFO]-[2023/12/25 05:28:43] DB Copy: Table clearvuepv253_wp_ce4wp_contacts contains 0 rows 
+[INFO]-[2023/12/25 05:28:44] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2023/12/25 05:28:44] DB Copy: Table clearvuepv253_wp_commentmeta contains 0 rows 
+[INFO]-[2023/12/25 05:28:45] DB Copy: Creating table wpstg0_comments
+[INFO]-[2023/12/25 05:28:45] DB Copy: Table clearvuepv253_wp_comments contains 0 rows 
+[INFO]-[2023/12/25 05:28:46] DB Copy: Creating table wpstg0_gf_addon_feed
+[INFO]-[2023/12/25 05:28:46] DB Copy: Table clearvuepv253_wp_gf_addon_feed contains 5 rows 
+[INFO]-[2023/12/25 05:28:46] DB Copy: Copy data from clearvuepv253_wp_gf_addon_feed to wpstg0_gf_addon_feed - 0 to 10000 records
+[INFO]-[2023/12/25 05:28:47] DB Copy: Creating table wpstg0_gf_draft_submissions
+[INFO]-[2023/12/25 05:28:47] DB Copy: Table clearvuepv253_wp_gf_draft_submissions contains 0 rows 
+[INFO]-[2023/12/25 05:28:48] DB Copy: Creating table wpstg0_gf_entry
+[INFO]-[2023/12/25 05:28:48] DB Copy: Table clearvuepv253_wp_gf_entry contains 2172 rows 
+[INFO]-[2023/12/25 05:28:48] DB Copy: Copy data from clearvuepv253_wp_gf_entry to wpstg0_gf_entry - 0 to 10000 records
+[INFO]-[2023/12/25 05:28:49] DB Copy: Creating table wpstg0_gf_entry_meta
+[INFO]-[2023/12/25 05:28:49] DB Copy: Table clearvuepv253_wp_gf_entry_meta contains 12042 rows 
+[INFO]-[2023/12/25 05:28:49] DB Copy: Copy data from clearvuepv253_wp_gf_entry_meta to wpstg0_gf_entry_meta - 0 to 10000 records
+[INFO]-[2023/12/25 05:28:50] DB Copy: Copy data from clearvuepv253_wp_gf_entry_meta to wpstg0_gf_entry_meta - 10000 to 20000 records
+[INFO]-[2023/12/25 05:28:51] DB Copy: Creating table wpstg0_gf_entry_notes
+[INFO]-[2023/12/25 05:28:51] DB Copy: Table clearvuepv253_wp_gf_entry_notes contains 2202 rows 
+[INFO]-[2023/12/25 05:28:51] DB Copy: Copy data from clearvuepv253_wp_gf_entry_notes to wpstg0_gf_entry_notes - 0 to 10000 records
+[INFO]-[2023/12/25 05:28:52] DB Copy: Creating table wpstg0_gf_form
+[INFO]-[2023/12/25 05:28:52] DB Copy: Table clearvuepv253_wp_gf_form contains 5 rows 
+[INFO]-[2023/12/25 05:28:52] DB Copy: Copy data from clearvuepv253_wp_gf_form to wpstg0_gf_form - 0 to 10000 records
+[INFO]-[2023/12/25 05:28:53] DB Copy: Creating table wpstg0_gf_form_meta
+[INFO]-[2023/12/25 05:28:53] DB Copy: Table clearvuepv253_wp_gf_form_meta contains 5 rows 
+[INFO]-[2023/12/25 05:28:53] DB Copy: Copy data from clearvuepv253_wp_gf_form_meta to wpstg0_gf_form_meta - 0 to 10000 records
+[INFO]-[2023/12/25 05:28:54] DB Copy: Creating table wpstg0_gf_form_revisions
+[INFO]-[2023/12/25 05:28:54] DB Copy: Table clearvuepv253_wp_gf_form_revisions contains 0 rows 
+[INFO]-[2023/12/25 05:28:55] DB Copy: Creating table wpstg0_gf_form_view
+[INFO]-[2023/12/25 05:28:55] DB Copy: Table clearvuepv253_wp_gf_form_view contains 3151 rows 
+[INFO]-[2023/12/25 05:28:55] DB Copy: Copy data from clearvuepv253_wp_gf_form_view to wpstg0_gf_form_view - 0 to 10000 records
+[INFO]-[2023/12/25 05:28:56] DB Copy: Creating table wpstg0_gf_rest_api_keys
+[INFO]-[2023/12/25 05:28:56] DB Copy: Table clearvuepv253_wp_gf_rest_api_keys contains 0 rows 
+[INFO]-[2023/12/25 05:28:57] DB Copy: Creating table wpstg0_irecommendthis_votes
+[INFO]-[2023/12/25 05:28:57] DB Copy: Table clearvuepv253_wp_irecommendthis_votes contains 0 rows 
+[INFO]-[2023/12/25 05:28:58] DB Copy: Creating table wpstg0_links
+[INFO]-[2023/12/25 05:28:58] DB Copy: Table clearvuepv253_wp_links contains 0 rows 
+[INFO]-[2023/12/25 05:28:59] DB Copy: Creating table wpstg0_options
+[INFO]-[2023/12/25 05:28:59] DB Copy: Table clearvuepv253_wp_options contains 432 rows 
+[INFO]-[2023/12/25 05:28:59] DB Copy: Copy data from clearvuepv253_wp_options to wpstg0_options - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:00] DB Copy: Creating table wpstg0_post_smtp_logmeta
+[INFO]-[2023/12/25 05:29:00] DB Copy: Table clearvuepv253_wp_post_smtp_logmeta contains 0 rows 
+[INFO]-[2023/12/25 05:29:01] DB Copy: Creating table wpstg0_post_smtp_logs
+[INFO]-[2023/12/25 05:29:01] DB Copy: Table clearvuepv253_wp_post_smtp_logs contains 45 rows 
+[INFO]-[2023/12/25 05:29:01] DB Copy: Copy data from clearvuepv253_wp_post_smtp_logs to wpstg0_post_smtp_logs - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:02] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2023/12/25 05:29:02] DB Copy: Table clearvuepv253_wp_postmeta contains 30916 rows 
+[INFO]-[2023/12/25 05:29:02] DB Copy: Copy data from clearvuepv253_wp_postmeta to wpstg0_postmeta - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:03] DB Copy: Copy data from clearvuepv253_wp_postmeta to wpstg0_postmeta - 10000 to 20000 records
+[INFO]-[2023/12/25 05:29:04] DB Copy: Copy data from clearvuepv253_wp_postmeta to wpstg0_postmeta - 20000 to 30000 records
+[INFO]-[2023/12/25 05:29:05] DB Copy: Copy data from clearvuepv253_wp_postmeta to wpstg0_postmeta - 30000 to 40000 records
+[INFO]-[2023/12/25 05:29:06] DB Copy: Creating table wpstg0_posts
+[INFO]-[2023/12/25 05:29:06] DB Copy: Table clearvuepv253_wp_posts contains 3509 rows 
+[INFO]-[2023/12/25 05:29:06] DB Copy: Copy data from clearvuepv253_wp_posts to wpstg0_posts - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:08] DB Copy: Creating table wpstg0_redirection_404
+[INFO]-[2023/12/25 05:29:08] DB Copy: Table clearvuepv253_wp_redirection_404 contains 307 rows 
+[INFO]-[2023/12/25 05:29:08] DB Copy: Copy data from clearvuepv253_wp_redirection_404 to wpstg0_redirection_404 - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:09] DB Copy: Creating table wpstg0_redirection_groups
+[INFO]-[2023/12/25 05:29:09] DB Copy: Table clearvuepv253_wp_redirection_groups contains 2 rows 
+[INFO]-[2023/12/25 05:29:09] DB Copy: Copy data from clearvuepv253_wp_redirection_groups to wpstg0_redirection_groups - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:10] DB Copy: Creating table wpstg0_redirection_items
+[INFO]-[2023/12/25 05:29:10] DB Copy: Table clearvuepv253_wp_redirection_items contains 44 rows 
+[INFO]-[2023/12/25 05:29:10] DB Copy: Copy data from clearvuepv253_wp_redirection_items to wpstg0_redirection_items - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:11] DB Copy: Creating table wpstg0_redirection_logs
+[INFO]-[2023/12/25 05:29:11] DB Copy: Table clearvuepv253_wp_redirection_logs contains 31 rows 
+[INFO]-[2023/12/25 05:29:11] DB Copy: Copy data from clearvuepv253_wp_redirection_logs to wpstg0_redirection_logs - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:12] DB Copy: Creating table wpstg0_sharelink
+[INFO]-[2023/12/25 05:29:12] DB Copy: Table clearvuepv253_wp_sharelink contains 0 rows 
+[INFO]-[2023/12/25 05:29:13] DB Copy: Creating table wpstg0_sharelink_options
+[INFO]-[2023/12/25 05:29:13] DB Copy: Table clearvuepv253_wp_sharelink_options contains 0 rows 
+[INFO]-[2023/12/25 05:29:14] DB Copy: Creating table wpstg0_sharelink_settings
+[INFO]-[2023/12/25 05:29:14] DB Copy: Table clearvuepv253_wp_sharelink_settings contains 0 rows 
+[INFO]-[2023/12/25 05:29:14] DB Copy: Creating table wpstg0_smush_dir_images
+[INFO]-[2023/12/25 05:29:14] DB Copy: Table clearvuepv253_wp_smush_dir_images contains 0 rows 
+[INFO]-[2023/12/25 05:29:15] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2023/12/25 05:29:15] DB Copy: Table clearvuepv253_wp_term_relationships contains 736 rows 
+[INFO]-[2023/12/25 05:29:15] DB Copy: Copy data from clearvuepv253_wp_term_relationships to wpstg0_term_relationships - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:16] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2023/12/25 05:29:16] DB Copy: Table clearvuepv253_wp_term_taxonomy contains 75 rows 
+[INFO]-[2023/12/25 05:29:16] DB Copy: Copy data from clearvuepv253_wp_term_taxonomy to wpstg0_term_taxonomy - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:17] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2023/12/25 05:29:17] DB Copy: Table clearvuepv253_wp_termmeta contains 80 rows 
+[INFO]-[2023/12/25 05:29:17] DB Copy: Copy data from clearvuepv253_wp_termmeta to wpstg0_termmeta - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:18] DB Copy: Creating table wpstg0_terms
+[INFO]-[2023/12/25 05:29:18] DB Copy: Table clearvuepv253_wp_terms contains 75 rows 
+[INFO]-[2023/12/25 05:29:18] DB Copy: Copy data from clearvuepv253_wp_terms to wpstg0_terms - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:19] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2023/12/25 05:29:19] DB Copy: Table clearvuepv253_wp_usermeta contains 286 rows 
+[INFO]-[2023/12/25 05:29:19] DB Copy: Copy data from clearvuepv253_wp_usermeta to wpstg0_usermeta - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:20] DB Copy: Creating table wpstg0_users
+[INFO]-[2023/12/25 05:29:20] DB Copy: Table clearvuepv253_wp_users contains 7 rows 
+[INFO]-[2023/12/25 05:29:20] DB Copy: Copy data from clearvuepv253_wp_users to wpstg0_users - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:21] DB Copy: Creating table wpstg0_wfblockediplog
+[INFO]-[2023/12/25 05:29:21] DB Copy: Table clearvuepv253_wp_wfblockediplog contains 9 rows 
+[INFO]-[2023/12/25 05:29:21] DB Copy: Copy data from clearvuepv253_wp_wfblockediplog to wpstg0_wfblockediplog - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:22] DB Copy: Creating table wpstg0_wfblocks7
+[INFO]-[2023/12/25 05:29:22] DB Copy: Table clearvuepv253_wp_wfblocks7 contains 18 rows 
+[INFO]-[2023/12/25 05:29:22] DB Copy: Copy data from clearvuepv253_wp_wfblocks7 to wpstg0_wfblocks7 - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:23] DB Copy: Creating table wpstg0_wfconfig
+[INFO]-[2023/12/25 05:29:23] DB Copy: Table clearvuepv253_wp_wfconfig contains 256 rows 
+[INFO]-[2023/12/25 05:29:23] DB Copy: Copy data from clearvuepv253_wp_wfconfig to wpstg0_wfconfig - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:24] DB Copy: Creating table wpstg0_wfcrawlers
+[INFO]-[2023/12/25 05:29:24] DB Copy: Table clearvuepv253_wp_wfcrawlers contains 38 rows 
+[INFO]-[2023/12/25 05:29:24] DB Copy: Copy data from clearvuepv253_wp_wfcrawlers to wpstg0_wfcrawlers - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:25] DB Copy: Creating table wpstg0_wffilechanges
+[INFO]-[2023/12/25 05:29:25] DB Copy: Table clearvuepv253_wp_wffilechanges contains 0 rows 
+[INFO]-[2023/12/25 05:29:26] DB Copy: Creating table wpstg0_wffilemods
+[INFO]-[2023/12/25 05:29:26] DB Copy: Table clearvuepv253_wp_wffilemods contains 7351 rows 
+[INFO]-[2023/12/25 05:29:26] DB Copy: Copy data from clearvuepv253_wp_wffilemods to wpstg0_wffilemods - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:27] DB Copy: Creating table wpstg0_wfhits
+[INFO]-[2023/12/25 05:29:27] DB Copy: Table clearvuepv253_wp_wfhits contains 156 rows 
+[INFO]-[2023/12/25 05:29:27] DB Copy: Copy data from clearvuepv253_wp_wfhits to wpstg0_wfhits - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:28] DB Copy: Creating table wpstg0_wfhoover
+[INFO]-[2023/12/25 05:29:28] DB Copy: Table clearvuepv253_wp_wfhoover contains 0 rows 
+[INFO]-[2023/12/25 05:29:29] DB Copy: Creating table wpstg0_wfissues
+[INFO]-[2023/12/25 05:29:29] DB Copy: Table clearvuepv253_wp_wfissues contains 0 rows 
+[INFO]-[2023/12/25 05:29:30] DB Copy: Creating table wpstg0_wfknownfilelist
+[INFO]-[2023/12/25 05:29:30] DB Copy: Table clearvuepv253_wp_wfknownfilelist contains 7351 rows 
+[INFO]-[2023/12/25 05:29:30] DB Copy: Copy data from clearvuepv253_wp_wfknownfilelist to wpstg0_wfknownfilelist - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:31] DB Copy: Creating table wpstg0_wflivetraffichuman
+[INFO]-[2023/12/25 05:29:31] DB Copy: Table clearvuepv253_wp_wflivetraffichuman contains 0 rows 
+[INFO]-[2023/12/25 05:29:32] DB Copy: Creating table wpstg0_wflocs
+[INFO]-[2023/12/25 05:29:32] DB Copy: Table clearvuepv253_wp_wflocs contains 17 rows 
+[INFO]-[2023/12/25 05:29:32] DB Copy: Copy data from clearvuepv253_wp_wflocs to wpstg0_wflocs - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:33] DB Copy: Creating table wpstg0_wflogins
+[INFO]-[2023/12/25 05:29:33] DB Copy: Table clearvuepv253_wp_wflogins contains 90 rows 
+[INFO]-[2023/12/25 05:29:33] DB Copy: Copy data from clearvuepv253_wp_wflogins to wpstg0_wflogins - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:34] DB Copy: Creating table wpstg0_wfls_2fa_secrets
+[INFO]-[2023/12/25 05:29:34] DB Copy: Table clearvuepv253_wp_wfls_2fa_secrets contains 0 rows 
+[INFO]-[2023/12/25 05:29:35] DB Copy: Creating table wpstg0_wfls_settings
+[INFO]-[2023/12/25 05:29:35] DB Copy: Table clearvuepv253_wp_wfls_settings contains 19 rows 
+[INFO]-[2023/12/25 05:29:35] DB Copy: Copy data from clearvuepv253_wp_wfls_settings to wpstg0_wfls_settings - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:36] DB Copy: Creating table wpstg0_wfnotifications
+[INFO]-[2023/12/25 05:29:36] DB Copy: Table clearvuepv253_wp_wfnotifications contains 5 rows 
+[INFO]-[2023/12/25 05:29:36] DB Copy: Copy data from clearvuepv253_wp_wfnotifications to wpstg0_wfnotifications - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:36] DB Copy: Creating table wpstg0_wfpendingissues
+[INFO]-[2023/12/25 05:29:36] DB Copy: Table clearvuepv253_wp_wfpendingissues contains 0 rows 
+[INFO]-[2023/12/25 05:29:37] DB Copy: Creating table wpstg0_wfreversecache
+[INFO]-[2023/12/25 05:29:37] DB Copy: Table clearvuepv253_wp_wfreversecache contains 40 rows 
+[INFO]-[2023/12/25 05:29:37] DB Copy: Copy data from clearvuepv253_wp_wfreversecache to wpstg0_wfreversecache - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:38] DB Copy: Creating table wpstg0_wfsnipcache
+[INFO]-[2023/12/25 05:29:38] DB Copy: Table clearvuepv253_wp_wfsnipcache contains 61 rows 
+[INFO]-[2023/12/25 05:29:38] DB Copy: Copy data from clearvuepv253_wp_wfsnipcache to wpstg0_wfsnipcache - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:39] DB Copy: Creating table wpstg0_wfstatus
+[INFO]-[2023/12/25 05:29:39] DB Copy: Table clearvuepv253_wp_wfstatus contains 953 rows 
+[INFO]-[2023/12/25 05:29:39] DB Copy: Copy data from clearvuepv253_wp_wfstatus to wpstg0_wfstatus - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:40] DB Copy: Creating table wpstg0_wftrafficrates
+[INFO]-[2023/12/25 05:29:40] DB Copy: Table clearvuepv253_wp_wftrafficrates contains 0 rows 
+[INFO]-[2023/12/25 05:29:41] DB Copy: Creating table wpstg0_wpfm_backup
+[INFO]-[2023/12/25 05:29:41] DB Copy: Table clearvuepv253_wp_wpfm_backup contains 0 rows 
+[INFO]-[2023/12/25 05:29:42] DB Copy: Creating table wpstg0_wpsmtp_logs
+[INFO]-[2023/12/25 05:29:42] DB Copy: Table clearvuepv253_wp_wpsmtp_logs contains 66 rows 
+[INFO]-[2023/12/25 05:29:42] DB Copy: Copy data from clearvuepv253_wp_wpsmtp_logs to wpstg0_wpsmtp_logs - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:43] DB Copy: Creating table wpstg0_yoast_indexable
+[INFO]-[2023/12/25 05:29:43] DB Copy: Table clearvuepv253_wp_yoast_indexable contains 1193 rows 
+[INFO]-[2023/12/25 05:29:43] DB Copy: Copy data from clearvuepv253_wp_yoast_indexable to wpstg0_yoast_indexable - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:44] DB Copy: Creating table wpstg0_yoast_indexable_hierarchy
+[INFO]-[2023/12/25 05:29:44] DB Copy: Table clearvuepv253_wp_yoast_indexable_hierarchy contains 1199 rows 
+[INFO]-[2023/12/25 05:29:44] DB Copy: Copy data from clearvuepv253_wp_yoast_indexable_hierarchy to wpstg0_yoast_indexable_hierarchy - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:45] DB Copy: Creating table wpstg0_yoast_migrations
+[INFO]-[2023/12/25 05:29:45] DB Copy: Table clearvuepv253_wp_yoast_migrations contains 21 rows 
+[INFO]-[2023/12/25 05:29:45] DB Copy: Copy data from clearvuepv253_wp_yoast_migrations to wpstg0_yoast_migrations - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:46] DB Copy: Creating table wpstg0_yoast_primary_term
+[INFO]-[2023/12/25 05:29:46] DB Copy: Table clearvuepv253_wp_yoast_primary_term contains 119 rows 
+[INFO]-[2023/12/25 05:29:46] DB Copy: Copy data from clearvuepv253_wp_yoast_primary_term to wpstg0_yoast_primary_term - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:47] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2023/12/25 05:29:47] DB Copy: Table clearvuepv253_wp_yoast_seo_links contains 1394 rows 
+[INFO]-[2023/12/25 05:29:47] DB Copy: Copy data from clearvuepv253_wp_yoast_seo_links to wpstg0_yoast_seo_links - 0 to 10000 records
+[INFO]-[2023/12/25 05:29:53] DB Search & Replace:  Table wpstg0_gf_addon_feed 0 to 20000 records
+[INFO]-[2023/12/25 05:29:54] DB Search & Replace:  Table wpstg0_gf_entry 0 to 20000 records
+[INFO]-[2023/12/25 05:29:58] DB Search & Replace:  Table wpstg0_gf_entry_meta 0 to 20000 records
+[INFO]-[2023/12/25 05:30:00] DB Search & Replace:  Table wpstg0_gf_entry_notes 0 to 20000 records
+[INFO]-[2023/12/25 05:30:01] DB Search & Replace:  Table wpstg0_gf_form 0 to 20000 records
+[INFO]-[2023/12/25 05:30:02] DB Search & Replace:  Table wpstg0_gf_form_meta 0 to 20000 records
+[INFO]-[2023/12/25 05:30:04] DB Search & Replace:  Table wpstg0_gf_form_view 0 to 20000 records
+[INFO]-[2023/12/25 05:30:08] DB Search & Replace:  Table wpstg0_options 0 to 20000 records
+[INFO]-[2023/12/25 05:30:10] DB Search & Replace:  Table wpstg0_post_smtp_logs 0 to 20000 records
+[INFO]-[2023/12/25 05:30:11] DB Search & Replace:  Table wpstg0_postmeta 0 to 20000 records
+[INFO]-[2023/12/25 05:30:13] DB Search & Replace:  Table wpstg0_postmeta 20000 to 40000 records
+[INFO]-[2023/12/25 05:30:14] DB Search & Replace:  Table wpstg0_posts 0 to 20000 records
+[INFO]-[2023/12/25 05:30:17] DB Search & Replace:  Table wpstg0_redirection_404 0 to 20000 records
+[INFO]-[2023/12/25 05:30:18] DB Search & Replace:  Table wpstg0_redirection_groups 0 to 20000 records
+[INFO]-[2023/12/25 05:30:19] DB Search & Replace:  Table wpstg0_redirection_items 0 to 20000 records
+[INFO]-[2023/12/25 05:30:20] DB Search & Replace:  Table wpstg0_redirection_logs 0 to 20000 records
+[INFO]-[2023/12/25 05:30:25] DB Search & Replace:  Table wpstg0_term_relationships 0 to 20000 records
+[INFO]-[2023/12/25 05:30:26] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 20000 records
+[INFO]-[2023/12/25 05:30:27] DB Search & Replace:  Table wpstg0_termmeta 0 to 20000 records
+[INFO]-[2023/12/25 05:30:28] DB Search & Replace:  Table wpstg0_terms 0 to 20000 records
+[INFO]-[2023/12/25 05:30:29] DB Search & Replace:  Table wpstg0_usermeta 0 to 20000 records
+[INFO]-[2023/12/25 05:30:30] DB Search & Replace:  Table wpstg0_users 0 to 20000 records
+[INFO]-[2023/12/25 05:30:31] DB Search & Replace:  Table wpstg0_wfblockediplog 0 to 20000 records
+[INFO]-[2023/12/25 05:30:31] DB Search & Replace:  Table wpstg0_wfblocks7 0 to 20000 records
+[INFO]-[2023/12/25 05:30:32] DB Search & Replace:  Table wpstg0_wfconfig 0 to 20000 records
+[INFO]-[2023/12/25 05:30:33] DB Search & Replace:  Table wpstg0_wfcrawlers 0 to 20000 records
+[INFO]-[2023/12/25 05:30:35] DB Search & Replace:  Table wpstg0_wffilemods 0 to 20000 records
+[INFO]-[2023/12/25 05:30:37] DB Search & Replace:  Table wpstg0_wfhits 0 to 20000 records
+[INFO]-[2023/12/25 05:30:39] DB Search & Replace:  Table wpstg0_wfknownfilelist 0 to 20000 records
+[INFO]-[2023/12/25 05:30:41] DB Search & Replace:  Table wpstg0_wflocs 0 to 20000 records
+[INFO]-[2023/12/25 05:30:42] DB Search & Replace:  Table wpstg0_wflogins 0 to 20000 records
+[INFO]-[2023/12/25 05:30:44] DB Search & Replace:  Table wpstg0_wfls_settings 0 to 20000 records
+[INFO]-[2023/12/25 05:30:45] DB Search & Replace:  Table wpstg0_wfnotifications 0 to 20000 records
+[INFO]-[2023/12/25 05:30:47] DB Search & Replace:  Table wpstg0_wfreversecache 0 to 20000 records
+[INFO]-[2023/12/25 05:30:48] DB Search & Replace:  Table wpstg0_wfsnipcache 0 to 20000 records
+[INFO]-[2023/12/25 05:30:49] DB Search & Replace:  Table wpstg0_wfstatus 0 to 20000 records
+[INFO]-[2023/12/25 05:30:52] DB Search & Replace:  Table wpstg0_wpsmtp_logs 0 to 20000 records
+[INFO]-[2023/12/25 05:30:53] DB Search & Replace:  Table wpstg0_yoast_indexable 0 to 20000 records
+[INFO]-[2023/12/25 05:30:56] DB Search & Replace:  Table wpstg0_yoast_indexable_hierarchy 0 to 20000 records
+[INFO]-[2023/12/25 05:30:57] DB Search & Replace:  Table wpstg0_yoast_migrations 0 to 20000 records
+[INFO]-[2023/12/25 05:30:58] DB Search & Replace:  Table wpstg0_yoast_primary_term 0 to 20000 records
+[INFO]-[2023/12/25 05:30:58] DB Search & Replace:  Table wpstg0_yoast_seo_links 0 to 20000 records
+[INFO]-[2023/12/25 05:31:02] Scanning / for its files
+[INFO]-[2023/12/25 05:31:03] Scanning wp-content/plugins/ and its sub-directories and files
+[INFO]-[2023/12/25 05:31:20] Scanning wp-content/mu-plugins/ and its sub-directories and files
+[INFO]-[2023/12/25 05:31:21] Scanning wp-content/themes/ and its sub-directories and files
+[INFO]-[2023/12/25 05:31:23] Scanning wp-content/uploads/ and its sub-directories and files
+[INFO]-[2023/12/25 05:31:27] Scanning wp-content/ for other directories and files
+[INFO]-[2023/12/25 05:31:31] Scanning wp-includes/ for its sub-directories and files
+[INFO]-[2023/12/25 05:31:33] Scanning wp-admin/ for its sub-directories and files
+[INFO]-[2023/12/25 05:31:36] Copying files...
+[INFO]-[2023/12/25 05:31:36] Skipping big file: /home3/oofzvumy/public_html/wp-includes.zip
+[INFO]-[2023/12/25 05:31:36] Skipping big file: /home3/oofzvumy/public_html/wordpress.zip
+[INFO]-[2023/12/25 05:31:36] Skipping big file: /home3/oofzvumy/public_html/ziSK6PMx
+[INFO]-[2023/12/25 05:31:36] Skipping big file: /home3/oofzvumy/public_html/wordpress-5.9.1.zip
+[INFO]-[2023/12/25 05:31:36] Skipping big file: /home3/oofzvumy/public_html/wordpress-5.9.3.zip
+[INFO]-[2023/12/25 05:31:36] Total 50 files processed
+[INFO]-[2023/12/25 05:31:37] Total 100 files processed
+[INFO]-[2023/12/25 05:31:39] Total 150 files processed
+[INFO]-[2023/12/25 05:31:40] Total 200 files processed
+[INFO]-[2023/12/25 05:31:41] Total 250 files processed
+[INFO]-[2023/12/25 05:31:42] Total 300 files processed
+[INFO]-[2023/12/25 05:31:43] Total 350 files processed
+[INFO]-[2023/12/25 05:31:45] Total 400 files processed
+[INFO]-[2023/12/25 05:31:46] Total 450 files processed
+[INFO]-[2023/12/25 05:31:47] Total 500 files processed
+[INFO]-[2023/12/25 05:31:48] Total 550 files processed
+[INFO]-[2023/12/25 05:31:49] Total 600 files processed
+[INFO]-[2023/12/25 05:31:50] Total 650 files processed
+[INFO]-[2023/12/25 05:31:52] Total 700 files processed
+[INFO]-[2023/12/25 05:31:53] Total 750 files processed
+[INFO]-[2023/12/25 05:31:54] Total 800 files processed
+[INFO]-[2023/12/25 05:31:55] Total 850 files processed
+[INFO]-[2023/12/25 05:31:57] Total 900 files processed
+[INFO]-[2023/12/25 05:31:58] Total 950 files processed
+[INFO]-[2023/12/25 05:31:59] Total 1000 files processed
+[INFO]-[2023/12/25 05:32:01] Total 1050 files processed
+[INFO]-[2023/12/25 05:32:02] Total 1100 files processed
+[INFO]-[2023/12/25 05:32:03] Total 1150 files processed
+[INFO]-[2023/12/25 05:32:05] Total 1200 files processed
+[INFO]-[2023/12/25 05:32:06] Total 1250 files processed
+[INFO]-[2023/12/25 05:32:07] Total 1300 files processed
+[INFO]-[2023/12/25 05:32:09] Total 1350 files processed
+[INFO]-[2023/12/25 05:32:10] Total 1400 files processed
+[INFO]-[2023/12/25 05:32:12] Total 1450 files processed
+[INFO]-[2023/12/25 05:32:14] Total 1500 files processed
+[INFO]-[2023/12/25 05:32:16] Total 1550 files processed
+[INFO]-[2023/12/25 05:32:17] Total 1600 files processed
+[INFO]-[2023/12/25 05:32:18] Total 1650 files processed
+[INFO]-[2023/12/25 05:32:19] Skipping big file: /home3/oofzvumy/public_html/wp-content/plugins/uncode-core/includes/one-click-demo/demo-files/content.xml
+[INFO]-[2023/12/25 05:32:20] Total 1700 files processed
+[INFO]-[2023/12/25 05:32:21] Total 1750 files processed
+[INFO]-[2023/12/25 05:32:22] Total 1800 files processed
+[INFO]-[2023/12/25 05:32:24] Total 1850 files processed
+[INFO]-[2023/12/25 05:32:25] Total 1900 files processed
+[INFO]-[2023/12/25 05:32:26] Total 1950 files processed
+[INFO]-[2023/12/25 05:32:27] Total 2000 files processed
+[INFO]-[2023/12/25 05:32:28] Total 2050 files processed
+[INFO]-[2023/12/25 05:32:30] Total 2100 files processed
+[INFO]-[2023/12/25 05:32:31] Total 2150 files processed
+[INFO]-[2023/12/25 05:32:32] Total 2200 files processed
+[INFO]-[2023/12/25 05:32:33] Total 2250 files processed
+[INFO]-[2023/12/25 05:32:35] Total 2300 files processed
+[INFO]-[2023/12/25 05:32:36] Total 2350 files processed
+[INFO]-[2023/12/25 05:32:37] Total 2400 files processed
+[INFO]-[2023/12/25 05:32:39] Total 2450 files processed
+[INFO]-[2023/12/25 05:32:40] Total 2500 files processed
+[INFO]-[2023/12/25 05:32:41] Total 2550 files processed
+[INFO]-[2023/12/25 05:32:43] Total 2600 files processed
+[INFO]-[2023/12/25 05:32:44] Total 2650 files processed
+[INFO]-[2023/12/25 05:32:46] Total 2700 files processed
+[INFO]-[2023/12/25 05:32:47] Total 2750 files processed
+[INFO]-[2023/12/25 05:32:48] Total 2800 files processed
+[INFO]-[2023/12/25 05:32:49] Total 2850 files processed
+[INFO]-[2023/12/25 05:32:51] Total 2900 files processed
+[INFO]-[2023/12/25 05:32:52] Total 2950 files processed
+[INFO]-[2023/12/25 05:32:53] Total 3000 files processed
+[INFO]-[2023/12/25 05:32:54] Total 3050 files processed
+[INFO]-[2023/12/25 05:32:55] Total 3100 files processed
+[INFO]-[2023/12/25 05:32:57] Total 3150 files processed
+[INFO]-[2023/12/25 05:32:58] Total 3200 files processed
+[INFO]-[2023/12/25 05:32:59] Total 3250 files processed
+[INFO]-[2023/12/25 05:33:00] Total 3300 files processed
+[INFO]-[2023/12/25 05:33:02] Total 3350 files processed
+[INFO]-[2023/12/25 05:33:03] Total 3400 files processed
+[INFO]-[2023/12/25 05:33:04] Total 3450 files processed
+[INFO]-[2023/12/25 05:33:05] Total 3500 files processed
+[INFO]-[2023/12/25 05:33:07] Total 3550 files processed
+[INFO]-[2023/12/25 05:33:08] Total 3600 files processed
+[INFO]-[2023/12/25 05:33:09] Total 3650 files processed
+[INFO]-[2023/12/25 05:33:11] Total 3700 files processed
+[INFO]-[2023/12/25 05:33:12] Total 3750 files processed
+[INFO]-[2023/12/25 05:33:13] Total 3800 files processed
+[INFO]-[2023/12/25 05:33:14] Total 3850 files processed
+[INFO]-[2023/12/25 05:33:15] Total 3900 files processed
+[INFO]-[2023/12/25 05:33:17] Total 3950 files processed
+[INFO]-[2023/12/25 05:33:18] Total 4000 files processed
+[INFO]-[2023/12/25 05:33:20] Total 4050 files processed
+[INFO]-[2023/12/25 05:33:21] Total 4100 files processed
+[INFO]-[2023/12/25 05:33:23] Total 4150 files processed
+[INFO]-[2023/12/25 05:33:24] Total 4200 files processed
+[INFO]-[2023/12/25 05:33:25] Total 4250 files processed
+[INFO]-[2023/12/25 05:33:26] Total 4300 files processed
+[INFO]-[2023/12/25 05:33:27] Total 4350 files processed
+[INFO]-[2023/12/25 05:33:29] Total 4400 files processed
+[INFO]-[2023/12/25 05:33:30] Total 4450 files processed
+[INFO]-[2023/12/25 05:33:31] Total 4500 files processed
+[INFO]-[2023/12/25 05:33:32] Total 4550 files processed
+[INFO]-[2023/12/25 05:33:34] Total 4600 files processed
+[INFO]-[2023/12/25 05:33:35] Total 4650 files processed
+[INFO]-[2023/12/25 05:33:36] Total 4700 files processed
+[INFO]-[2023/12/25 05:33:37] Total 4750 files processed
+[INFO]-[2023/12/25 05:33:38] Total 4800 files processed
+[INFO]-[2023/12/25 05:33:40] Total 4850 files processed
+[INFO]-[2023/12/25 05:33:41] Total 4900 files processed
+[INFO]-[2023/12/25 05:33:42] Total 4950 files processed
+[INFO]-[2023/12/25 05:33:43] Total 5000 files processed
+[INFO]-[2023/12/25 05:33:44] Total 5050 files processed
+[INFO]-[2023/12/25 05:33:45] Total 5100 files processed
+[INFO]-[2023/12/25 05:33:47] Total 5150 files processed
+[INFO]-[2023/12/25 05:33:48] Total 5200 files processed
+[INFO]-[2023/12/25 05:33:49] Total 5250 files processed
+[INFO]-[2023/12/25 05:33:50] Total 5300 files processed
+[INFO]-[2023/12/25 05:33:52] Total 5350 files processed
+[INFO]-[2023/12/25 05:33:53] Total 5400 files processed
+[INFO]-[2023/12/25 05:33:54] Total 5450 files processed
+[INFO]-[2023/12/25 05:33:55] Total 5500 files processed
+[INFO]-[2023/12/25 05:33:57] Total 5550 files processed
+[INFO]-[2023/12/25 05:33:58] Total 5600 files processed
+[INFO]-[2023/12/25 05:33:59] Total 5650 files processed
+[INFO]-[2023/12/25 05:34:00] Total 5700 files processed
+[INFO]-[2023/12/25 05:34:02] Total 5750 files processed
+[INFO]-[2023/12/25 05:34:03] Total 5800 files processed
+[INFO]-[2023/12/25 05:34:04] Total 5850 files processed
+[INFO]-[2023/12/25 05:34:05] Total 5900 files processed
+[INFO]-[2023/12/25 05:34:06] Total 5950 files processed
+[INFO]-[2023/12/25 05:34:08] Total 6000 files processed
+[INFO]-[2023/12/25 05:34:09] Total 6050 files processed
+[INFO]-[2023/12/25 05:34:10] Total 6100 files processed
+[INFO]-[2023/12/25 05:34:11] Total 6150 files processed
+[INFO]-[2023/12/25 05:34:12] Total 6200 files processed
+[INFO]-[2023/12/25 05:34:13] Total 6250 files processed
+[INFO]-[2023/12/25 05:34:14] Total 6300 files processed
+[INFO]-[2023/12/25 05:34:16] Total 6350 files processed
+[INFO]-[2023/12/25 05:34:17] Total 6400 files processed
+[INFO]-[2023/12/25 05:34:18] Total 6450 files processed
+[INFO]-[2023/12/25 05:34:19] Total 6500 files processed
+[INFO]-[2023/12/25 05:34:20] Total 6550 files processed
+[INFO]-[2023/12/25 05:34:21] Total 6600 files processed
+[INFO]-[2023/12/25 05:34:23] Total 6650 files processed
+[INFO]-[2023/12/25 05:34:24] Total 6700 files processed
+[INFO]-[2023/12/25 05:34:25] Total 6750 files processed
+[INFO]-[2023/12/25 05:34:26] Total 6800 files processed
+[INFO]-[2023/12/25 05:34:27] Total 6850 files processed
+[INFO]-[2023/12/25 05:34:29] Total 6900 files processed
+[INFO]-[2023/12/25 05:34:30] Total 6950 files processed
+[INFO]-[2023/12/25 05:34:32] Total 7000 files processed
+[INFO]-[2023/12/25 05:34:33] Total 7050 files processed
+[INFO]-[2023/12/25 05:34:35] Total 7100 files processed
+[INFO]-[2023/12/25 05:34:36] Total 7150 files processed
+[INFO]-[2023/12/25 05:34:37] Total 7200 files processed
+[INFO]-[2023/12/25 05:34:39] Total 7250 files processed
+[INFO]-[2023/12/25 05:34:40] Total 7300 files processed
+[INFO]-[2023/12/25 05:34:41] Total 7350 files processed
+[INFO]-[2023/12/25 05:34:42] Total 7400 files processed
+[INFO]-[2023/12/25 05:34:44] Total 7450 files processed
+[INFO]-[2023/12/25 05:34:45] Total 7500 files processed
+[INFO]-[2023/12/25 05:34:46] Total 7550 files processed
+[INFO]-[2023/12/25 05:34:48] Total 7600 files processed
+[INFO]-[2023/12/25 05:34:49] Total 7650 files processed
+[INFO]-[2023/12/25 05:34:50] Total 7700 files processed
+[INFO]-[2023/12/25 05:34:51] Total 7750 files processed
+[INFO]-[2023/12/25 05:34:53] Total 7800 files processed
+[INFO]-[2023/12/25 05:34:54] Total 7850 files processed
+[INFO]-[2023/12/25 05:34:55] Total 7900 files processed
+[INFO]-[2023/12/25 05:34:56] Total 7950 files processed
+[INFO]-[2023/12/25 05:34:57] Total 8000 files processed
+[INFO]-[2023/12/25 05:34:59] Total 8050 files processed
+[INFO]-[2023/12/25 05:35:01] Total 8100 files processed
+[INFO]-[2023/12/25 05:35:02] Total 8150 files processed
+[INFO]-[2023/12/25 05:35:03] Total 8200 files processed
+[INFO]-[2023/12/25 05:35:05] Total 8250 files processed
+[INFO]-[2023/12/25 05:35:06] Total 8300 files processed
+[INFO]-[2023/12/25 05:35:07] Total 8350 files processed
+[INFO]-[2023/12/25 05:35:08] Total 8400 files processed
+[INFO]-[2023/12/25 05:35:09] Total 8450 files processed
+[INFO]-[2023/12/25 05:35:11] Total 8500 files processed
+[INFO]-[2023/12/25 05:35:12] Total 8550 files processed
+[INFO]-[2023/12/25 05:35:13] Total 8600 files processed
+[INFO]-[2023/12/25 05:35:14] Total 8650 files processed
+[INFO]-[2023/12/25 05:35:16] Total 8700 files processed
+[INFO]-[2023/12/25 05:35:17] Total 8750 files processed
+[INFO]-[2023/12/25 05:35:18] Total 8800 files processed
+[INFO]-[2023/12/25 05:35:20] Total 8850 files processed
+[INFO]-[2023/12/25 05:35:21] Total 8900 files processed
+[INFO]-[2023/12/25 05:35:22] Total 8950 files processed
+[INFO]-[2023/12/25 05:35:24] Total 9000 files processed
+[INFO]-[2023/12/25 05:35:25] Total 9050 files processed
+[INFO]-[2023/12/25 05:35:26] Total 9100 files processed
+[INFO]-[2023/12/25 05:35:27] Total 9150 files processed
+[INFO]-[2023/12/25 05:35:29] Total 9200 files processed
+[INFO]-[2023/12/25 05:35:30] Total 9250 files processed
+[INFO]-[2023/12/25 05:35:31] Total 9300 files processed
+[INFO]-[2023/12/25 05:35:32] Total 9350 files processed
+[INFO]-[2023/12/25 05:35:33] Total 9400 files processed
+[INFO]-[2023/12/25 05:35:34] Total 9450 files processed
+[INFO]-[2023/12/25 05:35:36] Total 9500 files processed
+[INFO]-[2023/12/25 05:35:37] Total 9550 files processed
+[INFO]-[2023/12/25 05:35:38] Total 9600 files processed
+[INFO]-[2023/12/25 05:35:39] Total 9650 files processed
+[INFO]-[2023/12/25 05:35:41] Total 9700 files processed
+[INFO]-[2023/12/25 05:35:42] Total 9750 files processed
+[INFO]-[2023/12/25 05:35:43] Total 9800 files processed
+[INFO]-[2023/12/25 05:35:44] Total 9850 files processed
+[INFO]-[2023/12/25 05:35:46] Total 9900 files processed
+[INFO]-[2023/12/25 05:35:47] Total 9950 files processed
+[INFO]-[2023/12/25 05:35:48] Total 10000 files processed
+[INFO]-[2023/12/25 05:35:49] Total 10050 files processed
+[INFO]-[2023/12/25 05:35:50] Total 10100 files processed
+[INFO]-[2023/12/25 05:35:52] Total 10150 files processed
+[INFO]-[2023/12/25 05:35:53] Total 10200 files processed
+[INFO]-[2023/12/25 05:35:54] Total 10250 files processed
+[INFO]-[2023/12/25 05:35:55] Total 10300 files processed
+[INFO]-[2023/12/25 05:35:57] Total 10350 files processed
+[INFO]-[2023/12/25 05:35:58] Total 10400 files processed
+[INFO]-[2023/12/25 05:35:59] Total 10450 files processed
+[INFO]-[2023/12/25 05:36:00] Total 10500 files processed
+[INFO]-[2023/12/25 05:36:02] Total 10550 files processed
+[INFO]-[2023/12/25 05:36:03] Total 10600 files processed
+[INFO]-[2023/12/25 05:36:04] Total 10650 files processed
+[INFO]-[2023/12/25 05:36:05] Total 10700 files processed
+[INFO]-[2023/12/25 05:36:06] Total 10750 files processed
+[INFO]-[2023/12/25 05:36:07] Total 10800 files processed
+[INFO]-[2023/12/25 05:36:09] Total 10850 files processed
+[INFO]-[2023/12/25 05:36:10] Total 10900 files processed
+[INFO]-[2023/12/25 05:36:11] Total 10950 files processed
+[INFO]-[2023/12/25 05:36:12] Total 11000 files processed
+[INFO]-[2023/12/25 05:36:13] Total 11050 files processed
+[INFO]-[2023/12/25 05:36:14] Total 11100 files processed
+[INFO]-[2023/12/25 05:36:16] Total 11150 files processed
+[INFO]-[2023/12/25 05:36:17] Total 11200 files processed
+[INFO]-[2023/12/25 05:36:18] Total 11250 files processed
+[INFO]-[2023/12/25 05:36:19] Total 11300 files processed
+[INFO]-[2023/12/25 05:36:20] Total 11350 files processed
+[INFO]-[2023/12/25 05:36:21] Total 11400 files processed
+[INFO]-[2023/12/25 05:36:23] Total 11450 files processed
+[INFO]-[2023/12/25 05:36:24] Total 11500 files processed
+[INFO]-[2023/12/25 05:36:25] Total 11550 files processed
+[INFO]-[2023/12/25 05:36:26] Total 11600 files processed
+[INFO]-[2023/12/25 05:36:27] Total 11650 files processed
+[INFO]-[2023/12/25 05:36:28] Total 11700 files processed
+[INFO]-[2023/12/25 05:36:30] Total 11750 files processed
+[INFO]-[2023/12/25 05:36:31] Total 11800 files processed
+[INFO]-[2023/12/25 05:36:32] Total 11850 files processed
+[INFO]-[2023/12/25 05:36:33] Total 11900 files processed
+[INFO]-[2023/12/25 05:36:34] Total 11950 files processed
+[INFO]-[2023/12/25 05:36:35] Total 12000 files processed
+[INFO]-[2023/12/25 05:36:37] Total 12050 files processed
+[INFO]-[2023/12/25 05:36:38] Total 12100 files processed
+[INFO]-[2023/12/25 05:36:39] Total 12150 files processed
+[INFO]-[2023/12/25 05:36:40] Total 12200 files processed
+[INFO]-[2023/12/25 05:36:41] Total 12250 files processed
+[INFO]-[2023/12/25 05:36:43] Total 12300 files processed
+[INFO]-[2023/12/25 05:36:44] Total 12350 files processed
+[INFO]-[2023/12/25 05:36:45] Total 12400 files processed
+[INFO]-[2023/12/25 05:36:46] Total 12450 files processed
+[INFO]-[2023/12/25 05:36:47] Total 12500 files processed
+[INFO]-[2023/12/25 05:36:49] Total 12550 files processed
+[INFO]-[2023/12/25 05:36:50] Total 12600 files processed
+[INFO]-[2023/12/25 05:36:51] Total 12650 files processed
+[INFO]-[2023/12/25 05:36:52] Total 12700 files processed
+[INFO]-[2023/12/25 05:36:53] Total 12750 files processed
+[INFO]-[2023/12/25 05:36:55] Total 12800 files processed
+[INFO]-[2023/12/25 05:36:56] Total 12850 files processed
+[INFO]-[2023/12/25 05:36:57] Total 12900 files processed
+[INFO]-[2023/12/25 05:36:58] Total 12950 files processed
+[INFO]-[2023/12/25 05:36:59] Total 13000 files processed
+[INFO]-[2023/12/25 05:37:00] Total 13050 files processed
+[INFO]-[2023/12/25 05:37:02] Total 13100 files processed
+[INFO]-[2023/12/25 05:37:03] Total 13150 files processed
+[INFO]-[2023/12/25 05:37:04] Total 13200 files processed
+[INFO]-[2023/12/25 05:37:05] Total 13250 files processed
+[INFO]-[2023/12/25 05:37:06] Total 13300 files processed
+[INFO]-[2023/12/25 05:37:08] Total 13350 files processed
+[INFO]-[2023/12/25 05:37:09] Total 13400 files processed
+[INFO]-[2023/12/25 05:37:10] Total 13450 files processed
+[INFO]-[2023/12/25 05:37:11] Total 13500 files processed
+[INFO]-[2023/12/25 05:37:12] Total 13550 files processed
+[INFO]-[2023/12/25 05:37:13] Total 13600 files processed
+[INFO]-[2023/12/25 05:37:15] Total 13650 files processed
+[INFO]-[2023/12/25 05:37:16] Total 13700 files processed
+[INFO]-[2023/12/25 05:37:17] Total 13750 files processed
+[INFO]-[2023/12/25 05:37:18] Total 13800 files processed
+[INFO]-[2023/12/25 05:37:20] Total 13850 files processed
+[INFO]-[2023/12/25 05:37:21] Total 13900 files processed
+[INFO]-[2023/12/25 05:37:22] Total 13950 files processed
+[INFO]-[2023/12/25 05:37:23] Total 14000 files processed
+[INFO]-[2023/12/25 05:37:25] Total 14050 files processed
+[INFO]-[2023/12/25 05:37:26] Total 14100 files processed
+[INFO]-[2023/12/25 05:37:27] Total 14150 files processed
+[INFO]-[2023/12/25 05:37:28] Total 14200 files processed
+[INFO]-[2023/12/25 05:37:29] Total 14250 files processed
+[INFO]-[2023/12/25 05:37:31] Total 14300 files processed
+[INFO]-[2023/12/25 05:37:32] Total 14350 files processed
+[INFO]-[2023/12/25 05:37:33] Total 14400 files processed
+[INFO]-[2023/12/25 05:37:34] Total 14450 files processed
+[INFO]-[2023/12/25 05:37:35] Total 14500 files processed
+[INFO]-[2023/12/25 05:37:36] Total 14550 files processed
+[INFO]-[2023/12/25 05:37:38] Total 14600 files processed
+[INFO]-[2023/12/25 05:37:39] Total 14650 files processed
+[INFO]-[2023/12/25 05:37:40] Total 14700 files processed
+[INFO]-[2023/12/25 05:37:41] Total 14750 files processed
+[INFO]-[2023/12/25 05:37:42] Total 14800 files processed
+[INFO]-[2023/12/25 05:37:44] Total 14850 files processed
+[INFO]-[2023/12/25 05:37:45] Total 14900 files processed
+[INFO]-[2023/12/25 05:37:46] Total 14950 files processed
+[INFO]-[2023/12/25 05:37:47] Total 15000 files processed
+[INFO]-[2023/12/25 05:37:49] Total 15050 files processed
+[INFO]-[2023/12/25 05:37:50] Total 15100 files processed
+[INFO]-[2023/12/25 05:37:51] Total 15150 files processed
+[INFO]-[2023/12/25 05:37:53] Total 15200 files processed
+[INFO]-[2023/12/25 05:37:54] Total 15250 files processed
+[INFO]-[2023/12/25 05:37:55] Total 15300 files processed
+[INFO]-[2023/12/25 05:37:56] Total 15350 files processed
+[INFO]-[2023/12/25 05:37:57] Total 15400 files processed
+[INFO]-[2023/12/25 05:37:59] Total 15450 files processed
+[INFO]-[2023/12/25 05:38:00] Total 15500 files processed
+[INFO]-[2023/12/25 05:38:01] Total 15550 files processed
+[INFO]-[2023/12/25 05:38:03] Total 15600 files processed
+[INFO]-[2023/12/25 05:38:04] Total 15650 files processed
+[INFO]-[2023/12/25 05:38:05] Total 15700 files processed
+[INFO]-[2023/12/25 05:38:06] Total 15750 files processed
+[INFO]-[2023/12/25 05:38:07] Total 15800 files processed
+[INFO]-[2023/12/25 05:38:08] Total 15850 files processed
+[INFO]-[2023/12/25 05:38:10] Total 15900 files processed
+[INFO]-[2023/12/25 05:38:11] Total 15950 files processed
+[INFO]-[2023/12/25 05:38:12] Total 16000 files processed
+[INFO]-[2023/12/25 05:38:13] Total 16050 files processed
+[INFO]-[2023/12/25 05:38:14] Total 16100 files processed
+[INFO]-[2023/12/25 05:38:15] Total 16150 files processed
+[INFO]-[2023/12/25 05:38:17] Total 16200 files processed
+[INFO]-[2023/12/25 05:38:18] Total 16250 files processed
+[INFO]-[2023/12/25 05:38:19] Total 16300 files processed
+[INFO]-[2023/12/25 05:38:20] Total 16350 files processed
+[INFO]-[2023/12/25 05:38:21] Total 16400 files processed
+[INFO]-[2023/12/25 05:38:23] Total 16450 files processed
+[INFO]-[2023/12/25 05:38:24] Total 16500 files processed
+[INFO]-[2023/12/25 05:38:26] Total 16550 files processed
+[INFO]-[2023/12/25 05:38:27] Total 16600 files processed
+[INFO]-[2023/12/25 05:38:28] Total 16650 files processed
+[INFO]-[2023/12/25 05:38:29] Total 16700 files processed
+[INFO]-[2023/12/25 05:38:30] Total 16750 files processed
+[INFO]-[2023/12/25 05:38:32] Total 16800 files processed
+[INFO]-[2023/12/25 05:38:33] Total 16850 files processed
+[INFO]-[2023/12/25 05:38:34] Total 16900 files processed
+[INFO]-[2023/12/25 05:38:35] Total 16950 files processed
+[INFO]-[2023/12/25 05:38:36] Total 17000 files processed
+[INFO]-[2023/12/25 05:38:37] Total 17050 files processed
+[INFO]-[2023/12/25 05:38:39] Total 17100 files processed
+[INFO]-[2023/12/25 05:38:40] Total 17150 files processed
+[INFO]-[2023/12/25 05:38:41] Total 17200 files processed
+[INFO]-[2023/12/25 05:38:42] Total 17250 files processed
+[INFO]-[2023/12/25 05:38:43] Total 17300 files processed
+[INFO]-[2023/12/25 05:38:44] Total 17350 files processed
+[INFO]-[2023/12/25 05:38:45] Total 17400 files processed
+[INFO]-[2023/12/25 05:38:47] Total 17450 files processed
+[INFO]-[2023/12/25 05:38:48] Total 17500 files processed
+[INFO]-[2023/12/25 05:38:50] Total 17550 files processed
+[INFO]-[2023/12/25 05:38:51] Total 17600 files processed
+[INFO]-[2023/12/25 05:38:52] Total 17650 files processed
+[INFO]-[2023/12/25 05:38:53] Total 17700 files processed
+[INFO]-[2023/12/25 05:38:55] Total 17750 files processed
+[INFO]-[2023/12/25 05:38:56] Total 17800 files processed
+[INFO]-[2023/12/25 05:38:57] Total 17850 files processed
+[INFO]-[2023/12/25 05:38:58] Total 17900 files processed
+[INFO]-[2023/12/25 05:39:00] Total 17950 files processed
+[INFO]-[2023/12/25 05:39:01] Total 18000 files processed
+[INFO]-[2023/12/25 05:39:02] Total 18050 files processed
+[INFO]-[2023/12/25 05:39:03] Total 18100 files processed
+[INFO]-[2023/12/25 05:39:05] Total 18150 files processed
+[INFO]-[2023/12/25 05:39:06] Total 18200 files processed
+[INFO]-[2023/12/25 05:39:07] Total 18250 files processed
+[INFO]-[2023/12/25 05:39:08] Total 18300 files processed
+[INFO]-[2023/12/25 05:39:10] Total 18350 files processed
+[INFO]-[2023/12/25 05:39:11] Total 18400 files processed
+[INFO]-[2023/12/25 05:39:12] Total 18450 files processed
+[INFO]-[2023/12/25 05:39:13] Total 18500 files processed
+[INFO]-[2023/12/25 05:39:14] Total 18550 files processed
+[INFO]-[2023/12/25 05:39:16] Total 18600 files processed
+[INFO]-[2023/12/25 05:39:17] Total 18650 files processed
+[INFO]-[2023/12/25 05:39:18] Total 18700 files processed
+[INFO]-[2023/12/25 05:39:19] Total 18750 files processed
+[INFO]-[2023/12/25 05:39:20] Total 18800 files processed
+[INFO]-[2023/12/25 05:39:21] Total 18850 files processed
+[INFO]-[2023/12/25 05:39:23] Total 18900 files processed
+[INFO]-[2023/12/25 05:39:24] Total 18950 files processed
+[INFO]-[2023/12/25 05:39:25] Total 19000 files processed
+[INFO]-[2023/12/25 05:39:26] Total 19050 files processed
+[INFO]-[2023/12/25 05:39:27] Total 19100 files processed
+[INFO]-[2023/12/25 05:39:28] Total 19150 files processed
+[INFO]-[2023/12/25 05:39:29] Total 19200 files processed
+[INFO]-[2023/12/25 05:39:31] Total 19250 files processed
+[INFO]-[2023/12/25 05:39:32] Total 19300 files processed
+[INFO]-[2023/12/25 05:39:33] Total 19350 files processed
+[INFO]-[2023/12/25 05:39:34] Total 19400 files processed
+[INFO]-[2023/12/25 05:39:35] Total 19450 files processed
+[INFO]-[2023/12/25 05:39:36] Total 19500 files processed
+[INFO]-[2023/12/25 05:39:37] Total 19550 files processed
+[INFO]-[2023/12/25 05:39:39] Total 19600 files processed
+[INFO]-[2023/12/25 05:39:40] Total 19650 files processed
+[INFO]-[2023/12/25 05:39:41] Total 19700 files processed
+[INFO]-[2023/12/25 05:39:42] Total 19750 files processed
+[INFO]-[2023/12/25 05:39:43] Total 19800 files processed
+[INFO]-[2023/12/25 05:39:44] Total 19850 files processed
+[INFO]-[2023/12/25 05:39:46] Total 19900 files processed
+[INFO]-[2023/12/25 05:39:47] Total 19950 files processed
+[INFO]-[2023/12/25 05:39:48] Total 20000 files processed
+[INFO]-[2023/12/25 05:39:50] Total 20050 files processed
+[INFO]-[2023/12/25 05:39:51] Total 20100 files processed
+[INFO]-[2023/12/25 05:39:52] Total 20150 files processed
+[INFO]-[2023/12/25 05:39:53] Total 20200 files processed
+[INFO]-[2023/12/25 05:39:54] Total 20250 files processed
+[INFO]-[2023/12/25 05:39:55] Total 20300 files processed
+[INFO]-[2023/12/25 05:39:56] Total 20350 files processed
+[INFO]-[2023/12/25 05:39:58] Total 20400 files processed
+[INFO]-[2023/12/25 05:39:59] Total 20450 files processed
+[INFO]-[2023/12/25 05:40:00] Total 20500 files processed
+[INFO]-[2023/12/25 05:40:01] Total 20550 files processed
+[INFO]-[2023/12/25 05:40:02] Total 20600 files processed
+[INFO]-[2023/12/25 05:40:04] Total 20650 files processed
+[INFO]-[2023/12/25 05:40:05] Total 20700 files processed
+[INFO]-[2023/12/25 05:40:07] Total 20750 files processed
+[INFO]-[2023/12/25 05:40:08] Total 20800 files processed
+[INFO]-[2023/12/25 05:40:09] Total 20850 files processed
+[INFO]-[2023/12/25 05:40:10] Total 20900 files processed
+[INFO]-[2023/12/25 05:40:12] Total 20950 files processed
+[INFO]-[2023/12/25 05:40:13] Total 21000 files processed
+[INFO]-[2023/12/25 05:40:14] Total 21050 files processed
+[INFO]-[2023/12/25 05:40:15] Total 21100 files processed
+[INFO]-[2023/12/25 05:40:17] Total 21150 files processed
+[INFO]-[2023/12/25 05:40:18] Total 21200 files processed
+[INFO]-[2023/12/25 05:40:19] Total 21250 files processed
+[INFO]-[2023/12/25 05:40:21] Total 21300 files processed
+[INFO]-[2023/12/25 05:40:22] Total 21350 files processed
+[INFO]-[2023/12/25 05:40:24] Total 21400 files processed
+[INFO]-[2023/12/25 05:40:26] Total 21450 files processed
+[INFO]-[2023/12/25 05:40:27] Total 21500 files processed
+[INFO]-[2023/12/25 05:40:29] Total 21550 files processed
+[INFO]-[2023/12/25 05:40:31] Total 21600 files processed
+[INFO]-[2023/12/25 05:40:33] Total 21650 files processed
+[INFO]-[2023/12/25 05:40:34] Total 21700 files processed
+[INFO]-[2023/12/25 05:40:36] Total 21750 files processed
+[INFO]-[2023/12/25 05:40:38] Total 21800 files processed
+[INFO]-[2023/12/25 05:40:40] Total 21850 files processed
+[INFO]-[2023/12/25 05:40:41] Total 21900 files processed
+[INFO]-[2023/12/25 05:40:43] Total 21950 files processed
+[INFO]-[2023/12/25 05:40:45] Total 22000 files processed
+[INFO]-[2023/12/25 05:40:46] Total 22050 files processed
+[INFO]-[2023/12/25 05:40:48] Total 22100 files processed
+[INFO]-[2023/12/25 05:40:50] Total 22150 files processed
+[INFO]-[2023/12/25 05:40:52] Total 22200 files processed
+[INFO]-[2023/12/25 05:40:54] Total 22250 files processed
+[INFO]-[2023/12/25 05:40:55] Total 22300 files processed
+[INFO]-[2023/12/25 05:40:57] Total 22350 files processed
+[INFO]-[2023/12/25 05:40:59] Total 22400 files processed
+[INFO]-[2023/12/25 05:41:01] Total 22450 files processed
+[INFO]-[2023/12/25 05:41:03] Total 22500 files processed
+[INFO]-[2023/12/25 05:41:05] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2021/04/AUS-Greenhouse-Presentation-20210413.pdf
+[INFO]-[2023/12/25 05:41:05] Total 22550 files processed
+[INFO]-[2023/12/25 05:41:06] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2021/04/SmartVuePV-Casement-Window-1.pdf
+[INFO]-[2023/12/25 05:41:06] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2021/04/SmartVuePV-Natural-Ventilation-1.pdf
+[INFO]-[2023/12/25 05:41:06] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2021/04/SmartVuePV-Closed-Cavity-Blind-1.pdf
+[INFO]-[2023/12/25 05:41:06] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2021/04/SmartVuePV-Multi-Function-Facades-1.pdf
+[INFO]-[2023/12/25 05:41:07] Total 22600 files processed
+[INFO]-[2023/12/25 05:41:08] Total 22650 files processed
+[INFO]-[2023/12/25 05:41:10] Total 22700 files processed
+[INFO]-[2023/12/25 05:41:12] Total 22750 files processed
+[INFO]-[2023/12/25 05:41:14] Total 22800 files processed
+[INFO]-[2023/12/25 05:41:15] Total 22850 files processed
+[INFO]-[2023/12/25 05:41:17] Total 22900 files processed
+[INFO]-[2023/12/25 05:41:19] Total 22950 files processed
+[INFO]-[2023/12/25 05:41:21] Total 23000 files processed
+[INFO]-[2023/12/25 05:41:22] Total 23050 files processed
+[INFO]-[2023/12/25 05:41:23] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2021/06/20210615-BrochureUS_Ltr_WEB.pdf
+[INFO]-[2023/12/25 05:41:24] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2021/06/20210427-Greenhouse-Presentation-Aus.pdf
+[INFO]-[2023/12/25 05:41:24] Total 23100 files processed
+[INFO]-[2023/12/25 05:41:26] Total 23150 files processed
+[INFO]-[2023/12/25 05:41:27] Total 23200 files processed
+[INFO]-[2023/12/25 05:41:29] Total 23250 files processed
+[INFO]-[2023/12/25 05:41:31] Total 23300 files processed
+[INFO]-[2023/12/25 05:41:33] Total 23350 files processed
+[INFO]-[2023/12/25 05:41:34] Total 23400 files processed
+[INFO]-[2023/12/25 05:41:36] Total 23450 files processed
+[INFO]-[2023/12/25 05:41:38] Total 23500 files processed
+[INFO]-[2023/12/25 05:41:40] Total 23550 files processed
+[INFO]-[2023/12/25 05:41:42] Total 23600 files processed
+[INFO]-[2023/12/25 05:41:44] Total 23650 files processed
+[INFO]-[2023/12/25 05:41:45] Total 23700 files processed
+[INFO]-[2023/12/25 05:41:47] Total 23750 files processed
+[INFO]-[2023/12/25 05:41:49] Total 23800 files processed
+[INFO]-[2023/12/25 05:41:50] Total 23850 files processed
+[INFO]-[2023/12/25 05:41:52] Total 23900 files processed
+[INFO]-[2023/12/25 05:41:54] Total 23950 files processed
+[INFO]-[2023/12/25 05:41:55] Total 24000 files processed
+[INFO]-[2023/12/25 05:41:57] Total 24050 files processed
+[INFO]-[2023/12/25 05:41:59] Total 24100 files processed
+[INFO]-[2023/12/25 05:42:00] Total 24150 files processed
+[INFO]-[2023/12/25 05:42:02] Total 24200 files processed
+[INFO]-[2023/12/25 05:42:04] Total 24250 files processed
+[INFO]-[2023/12/25 05:42:06] Total 24300 files processed
+[INFO]-[2023/12/25 05:42:07] Total 24350 files processed
+[INFO]-[2023/12/25 05:42:09] Total 24400 files processed
+[INFO]-[2023/12/25 05:42:11] Total 24450 files processed
+[INFO]-[2023/12/25 05:42:13] Total 24500 files processed
+[INFO]-[2023/12/25 05:42:14] Total 24550 files processed
+[INFO]-[2023/12/25 05:42:16] Total 24600 files processed
+[INFO]-[2023/12/25 05:42:18] Total 24650 files processed
+[INFO]-[2023/12/25 05:42:19] Total 24700 files processed
+[INFO]-[2023/12/25 05:42:21] Total 24750 files processed
+[INFO]-[2023/12/25 05:42:22] Total 24800 files processed
+[INFO]-[2023/12/25 05:42:24] Total 24850 files processed
+[INFO]-[2023/12/25 05:42:26] Total 24900 files processed
+[INFO]-[2023/12/25 05:42:27] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2020/11/Vicinity-Warwick-Shopping-Centre-Atrium_MG_3428.jpg
+[INFO]-[2023/12/25 05:42:28] Total 24950 files processed
+[INFO]-[2023/12/25 05:42:29] Total 25000 files processed
+[INFO]-[2023/12/25 05:42:31] Total 25050 files processed
+[INFO]-[2023/12/25 05:42:33] Total 25100 files processed
+[INFO]-[2023/12/25 05:42:34] Total 25150 files processed
+[INFO]-[2023/12/25 05:42:36] Total 25200 files processed
+[INFO]-[2023/12/25 05:42:38] Total 25250 files processed
+[INFO]-[2023/12/25 05:42:40] Total 25300 files processed
+[INFO]-[2023/12/25 05:42:41] Total 25350 files processed
+[INFO]-[2023/12/25 05:42:43] Total 25400 files processed
+[INFO]-[2023/12/25 05:42:44] Total 25450 files processed
+[INFO]-[2023/12/25 05:42:45] Total 25500 files processed
+[INFO]-[2023/12/25 05:42:47] Total 25550 files processed
+[INFO]-[2023/12/25 05:42:49] Total 25600 files processed
+[INFO]-[2023/12/25 05:42:50] Total 25650 files processed
+[INFO]-[2023/12/25 05:42:52] Total 25700 files processed
+[INFO]-[2023/12/25 05:42:53] Total 25750 files processed
+[INFO]-[2023/12/25 05:42:55] Total 25800 files processed
+[INFO]-[2023/12/25 05:42:56] Total 25850 files processed
+[INFO]-[2023/12/25 05:42:58] Total 25900 files processed
+[INFO]-[2023/12/25 05:42:59] Total 25950 files processed
+[INFO]-[2023/12/25 05:43:00] Total 26000 files processed
+[INFO]-[2023/12/25 05:43:02] Total 26050 files processed
+[INFO]-[2023/12/25 05:43:04] Total 26100 files processed
+[INFO]-[2023/12/25 05:43:05] Total 26150 files processed
+[INFO]-[2023/12/25 05:43:06] Total 26200 files processed
+[INFO]-[2023/12/25 05:43:08] Total 26250 files processed
+[INFO]-[2023/12/25 05:43:10] Total 26300 files processed
+[INFO]-[2023/12/25 05:43:11] Total 26350 files processed
+[INFO]-[2023/12/25 05:43:13] Total 26400 files processed
+[INFO]-[2023/12/25 05:43:14] Total 26450 files processed
+[INFO]-[2023/12/25 05:43:15] Total 26500 files processed
+[INFO]-[2023/12/25 05:43:16] Total 26550 files processed
+[INFO]-[2023/12/25 05:43:18] Total 26600 files processed
+[INFO]-[2023/12/25 05:43:19] Total 26650 files processed
+[INFO]-[2023/12/25 05:43:21] Total 26700 files processed
+[INFO]-[2023/12/25 05:43:22] Total 26750 files processed
+[INFO]-[2023/12/25 05:43:24] Total 26800 files processed
+[INFO]-[2023/12/25 05:43:26] Total 26850 files processed
+[INFO]-[2023/12/25 05:43:28] Total 26900 files processed
+[INFO]-[2023/12/25 05:43:30] Total 26950 files processed
+[INFO]-[2023/12/25 05:43:32] Total 27000 files processed
+[INFO]-[2023/12/25 05:43:34] Total 27050 files processed
+[INFO]-[2023/12/25 05:43:35] Total 27100 files processed
+[INFO]-[2023/12/25 05:43:37] Total 27150 files processed
+[INFO]-[2023/12/25 05:43:38] Total 27200 files processed
+[INFO]-[2023/12/25 05:43:40] Total 27250 files processed
+[INFO]-[2023/12/25 05:43:42] Total 27300 files processed
+[INFO]-[2023/12/25 05:43:43] Total 27350 files processed
+[INFO]-[2023/12/25 05:43:46] Total 27400 files processed
+[INFO]-[2023/12/25 05:43:48] Total 27450 files processed
+[INFO]-[2023/12/25 05:43:50] Total 27500 files processed
+[INFO]-[2023/12/25 05:43:53] Total 27550 files processed
+[INFO]-[2023/12/25 05:43:55] Total 27600 files processed
+[INFO]-[2023/12/25 05:43:57] Total 27650 files processed
+[INFO]-[2023/12/25 05:43:58] Total 27700 files processed
+[INFO]-[2023/12/25 05:44:00] Total 27750 files processed
+[INFO]-[2023/12/25 05:44:02] Total 27800 files processed
+[INFO]-[2023/12/25 05:44:04] Total 27850 files processed
+[INFO]-[2023/12/25 05:44:07] Total 27900 files processed
+[INFO]-[2023/12/25 05:44:09] Total 27950 files processed
+[INFO]-[2023/12/25 05:44:11] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2023/03/Untitled-video-Made-with-Clipchamp.mp4
+[INFO]-[2023/12/25 05:44:12] Total 28000 files processed
+[INFO]-[2023/12/25 05:44:14] Total 28050 files processed
+[INFO]-[2023/12/25 05:44:16] Total 28100 files processed
+[INFO]-[2023/12/25 05:44:18] Total 28150 files processed
+[INFO]-[2023/12/25 05:44:19] Total 28200 files processed
+[INFO]-[2023/12/25 05:44:21] Total 28250 files processed
+[INFO]-[2023/12/25 05:44:23] Total 28300 files processed
+[INFO]-[2023/12/25 05:44:25] Total 28350 files processed
+[INFO]-[2023/12/25 05:44:26] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2023/10/IGU_Production-Short-V2.mp4
+[INFO]-[2023/12/25 05:44:27] Skipping big file: /home3/oofzvumy/public_html/wp-content/uploads/2023/10/04.10.2023_Earle_BCA_Interview.mp4
+[INFO]-[2023/12/25 05:44:27] Total 28400 files processed
+[INFO]-[2023/12/25 05:44:29] Total 28450 files processed
+[INFO]-[2023/12/25 05:44:31] Total 28500 files processed
+[INFO]-[2023/12/25 05:44:33] Total 28550 files processed
+[INFO]-[2023/12/25 05:44:35] Total 28600 files processed
+[INFO]-[2023/12/25 05:44:36] Total 28650 files processed
+[INFO]-[2023/12/25 05:44:38] Total 28700 files processed
+[INFO]-[2023/12/25 05:44:40] Total 28750 files processed
+[INFO]-[2023/12/25 05:44:41] Total 28800 files processed
+[INFO]-[2023/12/25 05:44:42] Total 28850 files processed
+[INFO]-[2023/12/25 05:44:43] Total 28900 files processed
+[INFO]-[2023/12/25 05:44:45] Total 28950 files processed
+[INFO]-[2023/12/25 05:44:46] Total 29000 files processed
+[INFO]-[2023/12/25 05:44:47] Total 29050 files processed
+[INFO]-[2023/12/25 05:44:48] Total 29100 files processed
+[INFO]-[2023/12/25 05:44:50] Total 29150 files processed
+[INFO]-[2023/12/25 05:44:51] Total 29200 files processed
+[INFO]-[2023/12/25 05:44:52] Total 29250 files processed
+[INFO]-[2023/12/25 05:44:53] Total 29300 files processed
+[INFO]-[2023/12/25 05:44:54] Total 29350 files processed
+[INFO]-[2023/12/25 05:44:55] Total 29400 files processed
+[INFO]-[2023/12/25 05:44:57] Total 29450 files processed
+[INFO]-[2023/12/25 05:44:58] Total 29500 files processed
+[INFO]-[2023/12/25 05:44:59] Total 29550 files processed
+[INFO]-[2023/12/25 05:45:00] Total 29600 files processed
+[INFO]-[2023/12/25 05:45:02] Total 29650 files processed
+[INFO]-[2023/12/25 05:45:03] Total 29700 files processed
+[INFO]-[2023/12/25 05:45:04] Total 29750 files processed
+[INFO]-[2023/12/25 05:45:06] Total 29800 files processed
+[INFO]-[2023/12/25 05:45:07] Total 29850 files processed
+[INFO]-[2023/12/25 05:45:08] Total 29900 files processed
+[INFO]-[2023/12/25 05:45:09] Total 29950 files processed
+[INFO]-[2023/12/25 05:45:11] Total 30000 files processed
+[INFO]-[2023/12/25 05:45:12] Total 30050 files processed
+[INFO]-[2023/12/25 05:45:13] Total 30100 files processed
+[INFO]-[2023/12/25 05:45:14] Total 30150 files processed
+[INFO]-[2023/12/25 05:45:16] Total 30200 files processed
+[INFO]-[2023/12/25 05:45:17] Total 30250 files processed
+[INFO]-[2023/12/25 05:45:18] Total 30300 files processed
+[INFO]-[2023/12/25 05:45:20] Total 30350 files processed
+[INFO]-[2023/12/25 05:45:21] Total 30400 files processed
+[INFO]-[2023/12/25 05:45:22] Total 30450 files processed
+[INFO]-[2023/12/25 05:45:23] Total 30500 files processed
+[INFO]-[2023/12/25 05:45:24] Total 30550 files processed
+[INFO]-[2023/12/25 05:45:26] Total 30600 files processed
+[INFO]-[2023/12/25 05:45:27] Total 30650 files processed
+[INFO]-[2023/12/25 05:45:28] Total 30700 files processed
+[INFO]-[2023/12/25 05:45:30] Total 30750 files processed
+[INFO]-[2023/12/25 05:45:31] Total 30800 files processed
+[INFO]-[2023/12/25 05:45:32] Total 30850 files processed
+[INFO]-[2023/12/25 05:45:34] Total 30900 files processed
+[INFO]-[2023/12/25 05:45:35] Total 30950 files processed
+[INFO]-[2023/12/25 05:45:37] Total 31000 files processed
+[INFO]-[2023/12/25 05:45:38] Total 31050 files processed
+[INFO]-[2023/12/25 05:45:40] Total 31100 files processed
+[INFO]-[2023/12/25 05:45:41] Total 31150 files processed
+[INFO]-[2023/12/25 05:45:43] Total 31200 files processed
+[INFO]-[2023/12/25 05:45:45] Total 31250 files processed
+[INFO]-[2023/12/25 05:45:46] Total 31300 files processed
+[INFO]-[2023/12/25 05:45:48] Total 31350 files processed
+[INFO]-[2023/12/25 05:45:49] Total 31400 files processed
+[INFO]-[2023/12/25 05:45:51] Total 31450 files processed
+[INFO]-[2023/12/25 05:45:52] Total 31500 files processed
+[INFO]-[2023/12/25 05:45:54] Total 31550 files processed
+[INFO]-[2023/12/25 05:45:55] Total 31600 files processed
+[INFO]-[2023/12/25 05:45:57] Total 31650 files processed
+[INFO]-[2023/12/25 05:45:58] Total 31700 files processed
+[INFO]-[2023/12/25 05:45:59] Total 31750 files processed
+[INFO]-[2023/12/25 05:46:00] Total 31800 files processed
+[INFO]-[2023/12/25 05:46:01] Total 31850 files processed
+[INFO]-[2023/12/25 05:46:03] Total 31900 files processed
+[INFO]-[2023/12/25 05:46:04] Total 31950 files processed
+[INFO]-[2023/12/25 05:46:05] Total 32000 files processed
+[INFO]-[2023/12/25 05:46:07] Total 32050 files processed
+[INFO]-[2023/12/25 05:46:08] Total 32100 files processed
+[INFO]-[2023/12/25 05:46:09] Total 32150 files processed
+[INFO]-[2023/12/25 05:46:10] Total 32200 files processed
+[INFO]-[2023/12/25 05:46:11] Total 32250 files processed
+[INFO]-[2023/12/25 05:46:13] Total 32300 files processed
+[INFO]-[2023/12/25 05:46:14] Total 32350 files processed
+[INFO]-[2023/12/25 05:46:15] Total 32400 files processed
+[INFO]-[2023/12/25 05:46:16] Total 32450 files processed
+[INFO]-[2023/12/25 05:46:18] Total 32500 files processed
+[INFO]-[2023/12/25 05:46:19] Total 32550 files processed
+[INFO]-[2023/12/25 05:46:21] Total 32600 files processed
+[INFO]-[2023/12/25 05:46:22] Total 32650 files processed
+[INFO]-[2023/12/25 05:46:23] Total 32700 files processed
+[INFO]-[2023/12/25 05:46:25] Total 32750 files processed
+[INFO]-[2023/12/25 05:46:26] Total 32800 files processed
+[INFO]-[2023/12/25 05:46:27] Total 32850 files processed
+[INFO]-[2023/12/25 05:46:29] Total 32900 files processed
+[INFO]-[2023/12/25 05:46:30] Total 32950 files processed
+[INFO]-[2023/12/25 05:46:31] Total 33000 files processed
+[INFO]-[2023/12/25 05:46:33] Total 33050 files processed
+[INFO]-[2023/12/25 05:46:34] Total 33100 files processed
+[INFO]-[2023/12/25 05:46:35] Total 33150 files processed
+[INFO]-[2023/12/25 05:46:37] Total 33200 files processed
+[INFO]-[2023/12/25 05:46:38] Total 33250 files processed
+[INFO]-[2023/12/25 05:46:39] Total 33300 files processed
+[INFO]-[2023/12/25 05:46:40] Total 33350 files processed
+[INFO]-[2023/12/25 05:46:41] Total 33400 files processed
+[INFO]-[2023/12/25 05:46:43] Total 33450 files processed
+[INFO]-[2023/12/25 05:46:44] Total 33500 files processed
+[INFO]-[2023/12/25 05:46:45] Total 33550 files processed
+[INFO]-[2023/12/25 05:46:47] Total 33600 files processed
+[INFO]-[2023/12/25 05:46:48] Total 33650 files processed
+[INFO]-[2023/12/25 05:46:49] Total 33700 files processed
+[INFO]-[2023/12/25 05:46:51] Total 33750 files processed
+[INFO]-[2023/12/25 05:46:52] Total 33800 files processed
+[INFO]-[2023/12/25 05:46:54] Total 33850 files processed
+[INFO]-[2023/12/25 05:46:55] Total 33900 files processed
+[INFO]-[2023/12/25 05:46:56] Total 33950 files processed
+[INFO]-[2023/12/25 05:46:57] Total 34000 files processed
+[INFO]-[2023/12/25 05:46:58] Total 34050 files processed
+[INFO]-[2023/12/25 05:47:00] Total 34100 files processed
+[INFO]-[2023/12/25 05:47:01] Total 34150 files processed
+[INFO]-[2023/12/25 05:47:04] Skipped symlinking Wp Uploads Folder
+[INFO]-[2023/12/25 05:47:04] Copying files finished
+[INFO]-[2023/12/25 05:47:05] DB Data Step 0: Copy wp-config.php file
+[INFO]-[2023/12/25 05:47:05] DB Data Step 0: Skipping: wp-config.php already exists in /home3/oofzvumy/public_html/1703482119951/wp-config.php
+[INFO]-[2023/12/25 05:47:06] DB Data Step 1: Updating siteurl and homeurl in wpstg0_options to https://www.clearvuepv.com/1703482119951
+[INFO]-[2023/12/25 05:47:08] DB Data Step 3: Updating db prefix in wpstg0_usermeta.
+[INFO]-[2023/12/25 05:47:09] DB Data Step 4: Updating table_prefix in /home3/oofzvumy/public_html/1703482119951/wp-config.php to wpstg0_
+[INFO]-[2023/12/25 05:47:10] DB Data Step 5: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2023/12/25 05:47:11] DB Data Step 6: Updating db prefix in wpstg0_options.
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Updating constants in wp-config.php
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_LANG_DIR
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_HOME
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_SITEURL
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_CACHE
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Updated: DISABLE_WP_CRON
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_ENVIRONMENT_TYPE
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_DEVELOPMENT_MODE
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WPSTAGING_DEV_SITE
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:UPLOADS
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_PLUGIN_DIR
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:WP_PLUGIN_URL
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Added constant:JETPACK_STAGING_MODE
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Skipping: WP_ALLOW_MULTISITE not defined in wp-config.php.
+[INFO]-[2023/12/25 05:47:12] DB Data Step 7: Skipping: MULTISITE not defined in wp-config.php.
+[INFO]-[2023/12/25 05:47:14] Finish: Deleting clone job's cache files...
+[INFO]-[2023/12/25 05:47:14] Finish: Clone job's cache files have been deleted!
+[INFO]-[2023/12/25 05:47:14] Finish: Verifying existing clones...
+[INFO]-[2023/12/25 05:47:14] Finish: The job finished!
+[info]-[2023/12/25 05:47:14] ################## FINISH ##################

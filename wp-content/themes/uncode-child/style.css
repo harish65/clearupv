@@ -1,0 +1,19 @@
+/*
+Theme Name: Uncode Child
+Description: Child theme for Uncode theme
+Author: Undsgn™
+Author URI: http://www.undsgn.com
+Template: uncode
+Version: 1.0.0
+Text Domain: uncode
+*/
+
+.newsletter_form_wrapper .validation_message {
+    color: #d00000!important;
+}
+
+.newsletter_form_wrapper li.gfield.gfield_error, .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning {
+    background-color: inherit!important;
+    border-top: none!important;
+    border-bottom: none!important;
+}
